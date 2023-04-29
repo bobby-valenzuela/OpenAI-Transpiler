@@ -14,9 +14,9 @@ Example: `OPENAI_API_KEY=<my_api_key>`
 
 # Usage
 Code snippets
-`python3 transpile.py --in <language>` --out <language>
+`python3 transpile.py --in <language> --out <language>`
 
 Transpile entire file
-`python3 transpile.py --in <language>` --out <language> --file-in <input_file>
+`python3 transpile.py --in <language> --out <language> --file-in <input_file>`
 
 I've added 'perly.pl' just as a test to try converting from a file as input.
