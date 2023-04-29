@@ -1,5 +1,5 @@
-# OpenAI-Chatbot
-
+# OpenAI-Transpiler
+Translate code from one language to another using OpenAI's GPT AI. Accepts user input or can read from a file as source input.
 
 # Setup
 1. Create a .env file with your OpenAI api key
