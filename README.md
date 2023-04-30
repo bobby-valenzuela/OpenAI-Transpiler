@@ -32,7 +32,7 @@ Translate code from one language to another using OpenAI's GPT AI. Accepts user 
    ```
 
 
-# Usage
+## Usage
 Code snippets
 `python3 transpile.py --in <language> --out <language>`
 
