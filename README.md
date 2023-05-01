@@ -33,7 +33,8 @@ Translate code from one language to another using OpenAI's GPT AI. Accepts user 
 
 
 ## Usage
-Code snippets
+
+### Transpiler
 `python3 transpile.py --in <language> --out <language>`
 
 Transpile entire file
@@ -41,3 +42,5 @@ Transpile entire file
 
 I've added 'perly.pl' just as a test to try converting from a file as input.
 
+### Time Complexity Calculator
+`python3 time_complexity_calculator.py 
