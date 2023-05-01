@@ -41,6 +41,7 @@ Transpile entire file
 `python3 transpile.py --in <language> --out <language> --file-in <input_file>`
 
 I've added 'perly.pl' just as a test to try converting from a file as input.
-
+  
+  
 ### Time Complexity Calculator
-`python3 time_complexity_calculator.py 
+`python3 time_complexity_calculator.py`
