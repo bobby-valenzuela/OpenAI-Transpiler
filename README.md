@@ -44,4 +44,5 @@ I've added 'perly.pl' just as a test to try converting from a file as input.
   
   
 ### Time Complexity Calculator
+I've added a time complexity calculator as an added bonus.
 `python3 time_complexity_calculator.py`
