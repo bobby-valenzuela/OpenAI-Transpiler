@@ -28,7 +28,7 @@ Translate code from one language to another using OpenAI's GPT AI. Accepts user 
 6. Create a .env file with your OpenAI api key
 
    ```bash
-   $ echo "OPENAI_API_KEY={api_secret} > .env 
+   $ echo "OPENAI_API_KEY={api_secret}" > .env 
    ```
 
 
