@@ -35,11 +35,17 @@ Translate code from one language to another using OpenAI's GPT AI. Accepts user 
 ## Usage
 
 ### Transpiler
-`python3 transpiler.py --in <language> --out <language>`
+```bash
+$ python3 transpiler.py --in <language> --out <language>
+```
 
 Transpile entire file
-`python3 transpiler.py --in <language> --out <language> --file-in <input_file>`
+```bash
+$ python3 transpiler.py --in <language> --out <language> --file-in <input_file>
+```
     
 ### Time Complexity Calculator
 I've added a time complexity calculator as an added bonus.  
-`python3 time_complexity_calculator.py`
+```bash
+$ python3 time_complexity_calculator.py
+```
