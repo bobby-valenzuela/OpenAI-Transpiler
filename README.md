@@ -49,3 +49,5 @@ I've added a time complexity calculator as an added bonus.
 ```bash
 $ python3 time_complexity_calculator.py
 ```
+  
+![Alt text](./demo-001.gif?raw=true "Demo 1")
